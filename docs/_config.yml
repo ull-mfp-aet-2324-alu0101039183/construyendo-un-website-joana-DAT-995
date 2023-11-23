@@ -1,0 +1,52 @@
+title: Tecnología I
+subtitle: '1er Cuatrimestre'
+theme: jekyll-theme-midnight
+light: true
+description: 'Desarrollo Colaborativo de Proyectos de Aprendizaje y Enseñanza de Tecnologías en la Nube'
+acronym: AET
+exclude: [ '_drafts/2021/', '_drafts/2020' ]
+baseurl: # '/introduccion'
+#url: https://ull-mfp-aet-2223.github.io/ull-mfp-aet-2223.github.io
+show_downloads: false
+calendario_academico: https://www.ull.es/estudios-docencia/calendario-academico/
+google_plus: https://plus.google.com/u/1/communities/101901734024125937720
+organization: 
+  url: https://github.com/ULL-MFP-AET-2223
+  name: ULL-MFP-AET-2223
+  master: https://github.dev/ULL-MFP-AET/ull-mfp-aet.github.io/blob/main/
+apuntes_repo: https://github.com/ULL-MFP-AET/ull-mfp-aet.github.io/
+campus_virtual: "https://campusdoctoradoyposgrado2223.ull.es/course/view.php?id=2223110052"
+calificador: https://campusdoctoradoyposgrado2223.ull.es/grade/report/index.php?id=2223110052
+tareas_en_el_campus: https://campusvirtual.ull.es/ingenieriaytecnologia/1920/mod/assign/index.php?id=201911070
+profesor: "https://github.com/account"
+profesor_github: Joanadt98
+chat: https://chat.google.com
+future: true
+bull_permanente: https://puntoq.ull.es/permalink/f
+covid_ull: https://campusvirtual.ull.es/doctoradoyposgrado/course/view.php?id=201913946
+dsi:
+  apuntes: https://ull-esit-dsi-1819.github.io/dsi-1819/
+sytws:
+  url: https://ull-mii-sytws-1920.github.io/
+disqus: 
+  url: https://procesadores-de-lenguajes.disqus.com/embed.js
+  comments: true
+classroom: 
+  url: "https://classroom.github.com/classrooms/108617085-ull-mfp-aet-2223"
+  name: ULL-MFP-AET-2223
+collections:
+  tareas:
+    output: true
+temas:
+# - title: 'Introducción al Desarrollo Colaborativo de Proyectos en la Nube'
+#    url: '/tema0-introduccion/'
+#    hover: 'introduccion'
+# - title: 'Desarrollo Colaborativo de Proyectos en la Nube con GitHub Education'
+#  url: '/tema1-github-education'
+#  hover: 'github-education'
+# - title: 'Desarrollo Colaborativo de Proyectos en la Nube con Google'
+#  url: /tema2-google-app-scripts
+#  hover: 'google-app-scripts' 
+plugins:
+  - jemoji
+
